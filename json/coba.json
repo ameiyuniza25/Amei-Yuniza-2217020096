@@ -1,0 +1,32 @@
+[
+    {
+        "nama" : "Amei Yuniza",
+        "umur" : 20,
+        "nip" : "2217020096",
+        "lulus" : false,
+        "hobby" : [
+            "codding",
+            "reading"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "Doddy Ardiansya",
+            "pembimbing2" : "Erika "
+        }
+
+    },
+     {
+        "nama" : "Amei Yuniza",
+        "umur" : 20,
+        "nip" : "2217020096",
+        "lulus" : false,
+        "hobby" : [
+            "codding",
+            "reading"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "Doddy Ardiansya",
+            "pembimbing2" : "Erika "
+        }
+
+    }
+]
