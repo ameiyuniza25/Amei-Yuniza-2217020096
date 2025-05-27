@@ -88,5 +88,4 @@ $('#movie-list').on('click', '.see-detail', function () {
             }
         }
     });
-
 });
